@@ -1,5 +1,5 @@
 {
-    "name": "kuzmany/smtp-validate-email",
+    "name": "zytzagoo/smtp-validate-email",
     "description": "Perform email address verification via SMTP",
     "keywords": [
       "smtp",

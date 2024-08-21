@@ -7,4 +7,3 @@ node_modules/
 /.phpcs.cache
 /coverage/
 /bin/mailhog
-.aider*
